@@ -1,7 +1,7 @@
 ## This notebook tutorial is the beginner level project in machine learning
 
 The data set comprises of various features from the vehicle model to its current price and etc . In this data set problem i have applied various ensembling techniques using bayesian
-optimization . First, i get to know about the data, then did the feature engineering, exploratory data analysis and then evaluate my model performance by ploting the learning curve . The data set samples is of month . The Metric is used to evaluate my model is 'root_mean_squared_error' 
+optimization . First, i get to know about the data ,did the feature engineering and exploratory data analysis and then evaluate my model performance by ploting the learning curve . The data set samples is of month . The Metric I used to evaluate my model is 'root_mean_squared_error' 
 
 ### The Ensembling Technique Used :
 #### ExtremeGradientBoosting Regressor
